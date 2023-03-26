@@ -1,6 +1,6 @@
 Made a Youtube Clone webapp using Reactjs, MUI and RapidAPI.
 
-And here's how you can explore it () => {https://youtube-clone-devil.netlify.app}
+And here's how you can explore it () => { https://youtube-clone-devil.netlify.app }
 
 
 ![home page ](https://user-images.githubusercontent.com/84832101/227773665-264f986e-fa47-4d73-9204-c9894f1ce549.png)
